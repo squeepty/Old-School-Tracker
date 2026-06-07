@@ -1,0 +1,456 @@
+{
+  "mods": [
+    {
+      "file": "tracker/Anarchy_Menu-01.mod",
+      "title": "Anarchy Menu 01"
+    },
+    {
+      "file": "tracker/BeachHead-2.mod",
+      "title": "BeachHead 2"
+    },
+    {
+      "file": "tracker/IntroTune.mod",
+      "title": "Intro Tune"
+    },
+    {
+      "file": "tracker/Anarchy_Menu-03.mod",
+      "title": "Anarchy Menu 03"
+    },
+    {
+      "file": "tracker/Anarchy_Menu-04.mod",
+      "title": "Anarchy Menu 04"
+    },
+    {
+      "file": "tracker/Anarchy_Menu-06.mod",
+      "title": "Anarchy Menu 06"
+    },
+    {
+      "file": "tracker/Anarchy_Menu-08.mod",
+      "title": "Anarchy Menu 08"
+    },
+    {
+      "file": "tracker/Anarchy_Menu-10.mod",
+      "title": "Anarchy Menu 10"
+    },
+    {
+      "file": "tracker/Beach_Party.mod",
+      "title": "Beach Party"
+    },
+    {
+      "file": "tracker/Eclipse.mod",
+      "title": "Eclipse"
+    },
+    {
+      "file": "tracker/Federation.mod",
+      "title": "Federation"
+    },
+    {
+      "file": "tracker/Love_Song.mod",
+      "title": "Love Song"
+    },
+    {
+      "file": "tracker/Luna_Waves.mod",
+      "title": "Luna Waves"
+    },
+    {
+      "file": "tracker/4mat_VI.mod",
+      "title": "4mat VI"
+    },
+    {
+      "file": "tracker/4mat_X.mod",
+      "title": "4mat X"
+    },
+    {
+      "file": "tracker/6beat.mod",
+      "title": "6beat"
+    },
+    {
+      "file": "tracker/A_City_at_Night.mod",
+      "title": "A City at Night"
+    },
+    {
+      "file": "tracker/Above_My_Head.mod",
+      "title": "Above My Head"
+    },
+    {
+      "file": "tracker/Aces_High-2.mod",
+      "title": "Aces High 2"
+    },
+    {
+      "file": "tracker/Agony_Village.mod",
+      "title": "Agony Village"
+    },
+    {
+      "file": "tracker/Anarchy_Menu-02.mod",
+      "title": "Anarchy Menu 02"
+    },
+    {
+      "file": "tracker/Anarchy_Menu-05.mod",
+      "title": "Anarchy Menu 05"
+    },
+    {
+      "file": "tracker/Anarchy_Menu-07.mod",
+      "title": "Anarchy Menu 07"
+    },
+    {
+      "file": "tracker/Anarchy_Menu-09.mod",
+      "title": "Anarchy Menu 09"
+    },
+    {
+      "file": "tracker/Anarchy_Menu-18.mod",
+      "title": "Anarchy Menu 18"
+    },
+    {
+      "file": "tracker/Another_Summer.mod",
+      "title": "Another Summer"
+    },
+    {
+      "file": "tracker/Auf_Weidersehn_Monty.mod",
+      "title": "Auf Weidersehn Monty"
+    },
+    {
+      "file": "tracker/B-T-AL_Title.mod",
+      "title": "B T AL Title"
+    },
+    {
+      "file": "tracker/Back_From_Blue.mod",
+      "title": "Back From Blue"
+    },
+    {
+      "file": "tracker/Bubble_Dizzy.mod",
+      "title": "Bubble Dizzy"
+    },
+    {
+      "file": "tracker/Cardiaxx-1.mod",
+      "title": "Cardiaxx 1"
+    },
+    {
+      "file": "tracker/Cardiaxx-2.mod",
+      "title": "Cardiaxx 2"
+    },
+    {
+      "file": "tracker/Cardiaxx-Pause.mod",
+      "title": "Cardiaxx Pause"
+    },
+    {
+      "file": "tracker/Carvup_Ingame.mod",
+      "title": "Carvup Ingame"
+    },
+    {
+      "file": "tracker/Carvup_Muzak.mod",
+      "title": "Carvup Muzak"
+    },
+    {
+      "file": "tracker/Carvup_Title.mod",
+      "title": "Carvup Title"
+    },
+    {
+      "file": "tracker/Chart_Track.mod",
+      "title": "Chart Track"
+    },
+    {
+      "file": "tracker/Chip_4mat-1.mod",
+      "title": "Chip 4mat 1"
+    },
+    {
+      "file": "tracker/Chip_Shop.mod",
+      "title": "Chip Shop"
+    },
+    {
+      "file": "tracker/ChuckRock_Intro.mod",
+      "title": "ChuckRock Intro"
+    },
+    {
+      "file": "tracker/ChuckRock_Title.mod",
+      "title": "ChuckRock Title"
+    },
+    {
+      "file": "tracker/Close_To_The_Edge.mod",
+      "title": "Close To The Edge"
+    },
+    {
+      "file": "tracker/Cloudream.mod",
+      "title": "Cloudream"
+    },
+    {
+      "file": "tracker/Comic_Bakery.mod",
+      "title": "Comic Bakery"
+    },
+    {
+      "file": "tracker/Dentro.mod",
+      "title": "Dentro"
+    },
+    {
+      "file": "tracker/Dna_Dream.mod",
+      "title": "Dna Dream"
+    },
+    {
+      "file": "tracker/Experiment-2.mod",
+      "title": "Experiment 2"
+    },
+    {
+      "file": "tracker/FartingKippers_Ahoy.mod",
+      "title": "FartingKippers Ahoy"
+    },
+    {
+      "file": "tracker/Ferry_Tales.mod",
+      "title": "Ferry Tales"
+    },
+    {
+      "file": "tracker/Final_Sample.mod",
+      "title": "Final Sample"
+    },
+    {
+      "file": "tracker/Galaxy.mod",
+      "title": "Galaxy"
+    },
+    {
+      "file": "tracker/Heli.mod",
+      "title": "Heli"
+    },
+    {
+      "file": "tracker/Her_Song.mod",
+      "title": "Her Song"
+    },
+    {
+      "file": "tracker/Hero-Quest_InGame.mod",
+      "title": "Hero Quest InGame"
+    },
+    {
+      "file": "tracker/Hero-Quest_Present.mod",
+      "title": "Hero Quest Present"
+    },
+    {
+      "file": "tracker/Human_Target.mod",
+      "title": "Human Target"
+    },
+    {
+      "file": "tracker/In_The_Kitchen_End.mod",
+      "title": "In The Kitchen End"
+    },
+    {
+      "file": "tracker/In_The_Kitchen.mod",
+      "title": "In The Kitchen"
+    },
+    {
+      "file": "tracker/In_Your_Shadow.mod",
+      "title": "In Your Shadow"
+    },
+    {
+      "file": "tracker/Krestmass_Leftover.mod",
+      "title": "Krestmass Leftover"
+    },
+    {
+      "file": "tracker/L-F-F.mod",
+      "title": "L F F"
+    },
+    {
+      "file": "tracker/Legacy.mod",
+      "title": "Legacy"
+    },
+    {
+      "file": "tracker/Madness_2_Part-A.mod",
+      "title": "Madness 2 Part A"
+    },
+    {
+      "file": "tracker/Madness_2_Part-B.mod",
+      "title": "Madness 2 Part B"
+    },
+    {
+      "file": "tracker/Madness_2_Part-C.mod",
+      "title": "Madness 2 Part C"
+    },
+    {
+      "file": "tracker/Madness.mod",
+      "title": "Madness"
+    },
+    {
+      "file": "tracker/Mitrax.mod",
+      "title": "Mitrax"
+    },
+    {
+      "file": "tracker/Mountains.mod",
+      "title": "Mountains"
+    },
+    {
+      "file": "tracker/Oh_No___A_DemoSong.mod",
+      "title": "Oh No A DemoSong"
+    },
+    {
+      "file": "tracker/Only_Whispers.mod",
+      "title": "Only Whispers"
+    },
+    {
+      "file": "tracker/Opus_Demo.mod",
+      "title": "Opus Demo"
+    },
+    {
+      "file": "tracker/Oriental_Level-3.mod",
+      "title": "Oriental Level 3"
+    },
+    {
+      "file": "tracker/Our_Rout.mod",
+      "title": "Our Rout"
+    },
+    {
+      "file": "tracker/Out_on_a_Limb.mod",
+      "title": "Out on a Limb"
+    },
+    {
+      "file": "tracker/Perception's_End.mod",
+      "title": "Perception's End"
+    },
+    {
+      "file": "tracker/Phantasmagoria.mod",
+      "title": "Phantasmagoria"
+    },
+    {
+      "file": "tracker/Pitchblend.mod",
+      "title": "Pitchblend"
+    },
+    {
+      "file": "tracker/Prince_of_Yolk-Folk.mod",
+      "title": "Prince of Yolk Folk"
+    },
+    {
+      "file": "tracker/Psychospugs.mod",
+      "title": "Psychospugs"
+    },
+    {
+      "file": "tracker/Rave_On.mod",
+      "title": "Rave On"
+    },
+    {
+      "file": "tracker/Rebels!!!.mod",
+      "title": "Rebels!!!"
+    },
+    {
+      "file": "tracker/SD-10_Chip-1.mod",
+      "title": "SD 10 Chip 1"
+    },
+    {
+      "file": "tracker/SD-10_Chip-2.mod",
+      "title": "SD 10 Chip 2"
+    },
+    {
+      "file": "tracker/SD-10_Chip-3.mod",
+      "title": "SD 10 Chip 3"
+    },
+    {
+      "file": "tracker/SD-10_Chip-4.mod",
+      "title": "SD 10 Chip 4"
+    },
+    {
+      "file": "tracker/SD-10_Chip-5.mod",
+      "title": "SD 10 Chip 5"
+    },
+    {
+      "file": "tracker/SD-10_Chip-6.mod",
+      "title": "SD 10 Chip 6"
+    },
+    {
+      "file": "tracker/SD-10_Chip-7.mod",
+      "title": "SD 10 Chip 7"
+    },
+    {
+      "file": "tracker/SD-10_Menu.mod",
+      "title": "SD 10 Menu"
+    },
+    {
+      "file": "tracker/Share_and_Enjoy.mod",
+      "title": "Share and Enjoy"
+    },
+    {
+      "file": "tracker/Shock.mod",
+      "title": "Shock"
+    },
+    {
+      "file": "tracker/SOC_Introsong.mod",
+      "title": "SOC Introsong"
+    },
+    {
+      "file": "tracker/Soundtest.mod",
+      "title": "Soundtest"
+    },
+    {
+      "file": "tracker/Starpaws.mod",
+      "title": "Starpaws"
+    },
+    {
+      "file": "tracker/Starworx.mod",
+      "title": "Starworx"
+    },
+    {
+      "file": "tracker/Sunny_Holiday.mod",
+      "title": "Sunny Holiday"
+    },
+    {
+      "file": "tracker/Thala_Music.mod",
+      "title": "Thala Music"
+    },
+    {
+      "file": "tracker/That_Old_Magic.mod",
+      "title": "That Old Magic"
+    },
+    {
+      "file": "tracker/The_Desert.mod",
+      "title": "The Desert"
+    },
+    {
+      "file": "tracker/The_Golden_Ages.mod",
+      "title": "The Golden Ages"
+    },
+    {
+      "file": "tracker/VCC&GIGICAR-1989!!.mod",
+      "title": "VCC&GIGICAR 1989!!"
+    },
+    {
+      "file": "tracker/Voyage_of_Reality.mod",
+      "title": "Voyage of Reality"
+    },
+    {
+      "file": "tracker/Voyage.mod",
+      "title": "Voyage"
+    },
+    {
+      "file": "tracker/Walk_at_Night.mod",
+      "title": "Walk at Night"
+    },
+    {
+      "file": "tracker/Waterfall.mod",
+      "title": "Waterfall"
+    },
+    {
+      "file": "tracker/What's_The_Problem.mod",
+      "title": "What's The Problem"
+    },
+    {
+      "file": "tracker/Winners.mod",
+      "title": "Winners"
+    },
+    {
+      "file": "tracker/Wizardry.mod",
+      "title": "Wizardry"
+    },
+    {
+      "file": "tracker/World_of_Dentro.mod",
+      "title": "World of Dentro"
+    },
+    {
+      "file": "tracker/World_of_Love.mod",
+      "title": "World of Love"
+    },
+    {
+      "file": "tracker/Yet_Another_Bonus.mod",
+      "title": "Yet Another Bonus"
+    },
+    {
+      "file": "tracker/Zap_Tune.mod",
+      "title": "Zap Tune"
+    },
+    {
+      "file": "tracker/Zapped_Out.mod",
+      "title": "Zapped Out"
+    }
+  ]
+}
