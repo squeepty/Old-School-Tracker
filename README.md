@@ -3,6 +3,8 @@
 A standalone browser-based ProTracker MOD player and a tribute to the music of
 Matthew "4mat" Simmonds.
 
+Live here: [https://squeepty.github.io/Old-School-Tracker/](https://squeepty.github.io/Old-School-Tracker/)
+
 The player originated as a hidden tracker screen in The Big (Web) Demo and was
 later separated into this standalone project.
 
